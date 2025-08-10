@@ -1,5 +1,5 @@
-# Membership Card Generator
-This Python program generates membership cards by overlaying text onto images. It uses data from a CSV file and allows for customization of the text's position, font, and color.
+# Membership Card Automation 
+This Python program automatically generates membership cards by overlaying text onto images. It uses data from a CSV file and allows for customization of the text's position, font, and color.
 
 ## Features
 Customizable Text Overlay: Add names, roles, emails, and numbers to images in customizable positions.
